@@ -29,4 +29,12 @@ rode o comando :
 
 Copie a chave toda e insira no seu bitbucket na url: https://bitbucket.org/account/settings/ssh-keys/
 
+
+4 - Configure o git com seu nome e e-mail
+
+`
+  git config --global user.email "seu_email@base.digital"
+  git config --global user.name "Seu Nome"
+`
+
 3 - Clone os projetos em sua pasta de preferência

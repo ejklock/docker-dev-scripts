@@ -25,3 +25,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo groupadd docker
 
 sudo usermod -aG docker $USER
+
+echo 'installing zsh'
+
+sudo apt install zsh
